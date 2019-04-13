@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "577830411639",
+    "firebase_url": "https://logindemo-42f2f.firebaseio.com",
+    "project_id": "logindemo-42f2f",
+    "storage_bucket": "logindemo-42f2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577830411639:android:ac0fa9c7b8d77888",
+        "android_client_info": {
+          "package_name": "com.plantquiz.logindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577830411639-q6c6q4b89ddao9o7cb32sosq5f3uji34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk0THVRuVlkC0BuC48juui8vAi1FByK90"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
